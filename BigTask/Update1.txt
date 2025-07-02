@@ -2,3 +2,6 @@ foo
 bar
 second line
 step 13 dstoilov
+
+where is the bar?
+
