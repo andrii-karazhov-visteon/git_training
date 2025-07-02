@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+DevA Wrote This!
+=======
+DevB wrote this supid line
+>>>>>>> DevB
