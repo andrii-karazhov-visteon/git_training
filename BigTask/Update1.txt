@@ -1,2 +1,5 @@
 foo 
 second line
+
+where is the bar?
+
