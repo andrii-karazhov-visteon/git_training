@@ -1,0 +1,30 @@
+[33mcommit c155fb7f4a123c65f02c8430ca2df5174a9e4037[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;31morigin/feature[m[33m, [m[1;31morigin/andrii[m[33m)[m
+Author: AKARAZHO <andrii.karazhov@visteon.com>
+Date:   Fri Jun 27 16:31:11 2025 +0300
+
+    One more update
+
+[33mcommit e431cf92ea8236c1140a66f9448faa957d8ee6f1[m
+Merge: f33b1a4 c18b20c
+Author: AKARAZHO <andrii.karazhov@visteon.com>
+Date:   Tue Jun 24 14:25:42 2025 +0300
+
+    Merge branch 'sub_feature' into feature
+
+[33mcommit f33b1a43a73de5b8a7cfe9b672c4d5fcdef3f475[m
+Author: AKARAZHO <andrii.karazhov@visteon.com>
+Date:   Tue Jun 24 14:09:17 2025 +0300
+
+    Updates from feature
+
+[33mcommit c18b20c613e0287c3e7e458c24e6e14d03838522[m
+Author: AKARAZHO <andrii.karazhov@visteon.com>
+Date:   Tue Jun 24 14:08:24 2025 +0300
+
+    Updates from sub_feature
+
+[33mcommit f6b792afab0af6bba5a390b382edee3083eaa898[m
+Author: AKARAZHO <andrii.karazhov@visteon.com>
+Date:   Tue Jun 24 13:22:53 2025 +0300
+
+    Add handler
